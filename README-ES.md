@@ -3,11 +3,11 @@ LIFA for Arduino Leonardo
 
 #####fork del proyecto LIFA de labviewhacker
 
-La interfaz de LabVIEW para Arduino (LIFA Toolkit) es de libre descarga y permite a los desarrolladores usar Arduino como plataforma de adquisicion de datos y la procesarlos en el entorno de programación gráfica de LabVIEW. Usted puede comprar el Arduino Uno junto con una version para Estudiantes  de LabVIEW en Sparkfun.
+La interfaz de LabVIEW para Arduino (LIFA Toolkit) es de libre descarga y permite a los desarrolladores usar Arduino como plataforma de adquisición de datos y la procesarlos en el entorno de programación gráfica de LabVIEW. Usted puede comprar el Arduino Uno junto con una versión para Estudiantes  de LabVIEW en Sparkfun.
 
-##Que tendra de nuevo?
+##Que tendrá de nuevo?
 
-La tarea es optimizar el código del drive LIFA. Para porder usarlo en la placa Arduino Leonardo.
+La tarea es optimizar el código del drive LIFA. Para poder usarlo en la placa Arduino Leonardo.
 
 ###Problemas 
 - No es posible compilar LIFA para Arduino Leonardo
@@ -16,3 +16,4 @@ La tarea es optimizar el código del drive LIFA. Para porder usarlo en la placa 
 
 ####Repositorio de Origen. 
 https://github.com/labviewhacker/lifa
+
