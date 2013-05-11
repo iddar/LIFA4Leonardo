@@ -7,12 +7,12 @@ The LabVIEW Interface for Arduino (LIFA) Toolkit is a FREE download that allows 
 
 ##what's new
 
-The task is to optimize the code of the drive LIFA. For use in the Arduino leonardo has only 28kb memory free.
+The task is to optimize the code of the drive LIFA. For use in the Arduino Leonardo.
 
 ###Errors 
 - No compiler for Arduino Leonardo Target 
-- Sketch size: 21,354 bytes (32,256 bytes)
+- Sketch size: 21,354 bytes
 
 
-####Original repo
+####Origin repo
 https://github.com/labviewhacker/lifa
