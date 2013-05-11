@@ -13,6 +13,5 @@ The task is to optimize the code of the drive LIFA. For use in the Arduino Leona
 - No compiler for Arduino Leonardo Target 
 - Sketch size: 21,354 bytes
 
-
 ####Origin repo
 https://github.com/labviewhacker/lifa
